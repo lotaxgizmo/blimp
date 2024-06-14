@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
      <Home/>
-     {/* <Community/> */}
+     <Community/>
      <About/>
      <Tokenomics/>
     </div>
