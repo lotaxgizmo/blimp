@@ -10,8 +10,8 @@ function Home() {
       <img src={heropic} alt="" className='my-10 w-[700px]' />
       <img src={heroca} alt="" className='mb-10 z-10'/>
 
-   <img src={headertext1} alt="" className='absolute right-0 mr-6 w-20 top-8 lg:top-auto lg:w-auto' />
-         <img src={headercrazy} alt="" className='absolute left-0 ml-6 lg:-bottom-14 -bottom-7 hidden lg:flex sw-20' />
+   <img src={headertext1} alt="" className='absolute right-0 mr-6 w-20 top-8 lg:top-auto lg:w-auto animate-pulse' />
+         <img src={headercrazy} alt="" className='absolute left-0 ml-6 lg:-bottom-14 -bottom-7 hidden lg:flex sw-20 animate-pulse' />
     </div>
   )
 }
