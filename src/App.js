@@ -6,8 +6,8 @@ import Tokenomics from './components/Tokenomics'
 function App() {
   return (
     <div className="App">
-     {/* <Home/>
-     <Community/> */}
+     <Home/>
+     <Community/>
      <About/>
      <Tokenomics/>
     </div>
