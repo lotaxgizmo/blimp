@@ -8,7 +8,7 @@ import contract from '../assets/contract.svg'
 
 function Community() {
   return (
-    <div className='flex flex-col justify-center items-center relative mx-4'>
+    <div id='community' className='flex flex-col justify-center items-center relative mx-4'>
       <img src={communitytextbg} alt="" className='-mb-8' />
       <img src={communitytextbg2} alt="" className=' animate-bounce' />
       <img src={mattcircleicon} alt="" className='z-10 lg:absolute right-0 w-32 lg:w-72 lg:mb-0 -mb-20  animate-spin' />

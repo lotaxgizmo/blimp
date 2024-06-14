@@ -7,7 +7,7 @@ import roll from '../assets/roll.svg'
 
 function Tokenomics() {
   return (
-    <div className='bg-[#FFF1E8] flex flex-col lg:flex-row justify-center lg:justify-around items-center relative  py-10 '>
+    <div id='tokenomics' className='bg-[#FFF1E8] flex flex-col lg:flex-row justify-center lg:justify-around items-center relative  py-10 '>
 
       <div className="bg-[#37AEE2] lg:w-11/12 w-full rounded-2xl flex flex-col  justify-start lg:justify-evenly lg:items-center items-start relative lg: mx-4 pt-14 overflow-hidden ">
 
