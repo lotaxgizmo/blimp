@@ -6,7 +6,7 @@ import heroca from '../assets/heroca.svg'
 
 function Home() {
   return (
-    <div className='bg-[#FC8DCF] flex flex-col justify-center items-center relative px-4'>
+    <div className='bg-[#FC8DCF] d flex flex-col justify-center items-center relative px-4'>
       <img src={heropic} alt="" className='my-10 w-[700px]' />
       <img src={heroca} alt="" className='mb-10 z-10'/>
 
