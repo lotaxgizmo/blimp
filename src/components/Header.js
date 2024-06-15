@@ -81,8 +81,8 @@ function Header() {
               </a>
             ))}
           </div>
-          <a href="#" className="mt-5">
-            <img src={buynow} alt="" />
+          <a href="https://raydium.io/swap/?inputMint=sol&outputMint=2hnFpwft7BRhh7fcbkqaLzXubn76jNJNSyTZwdtDpump" target="_blank" rel="noopener noreferrer" className='mt-5'>
+          <img src={buynow} alt="" />
           </a>
         </div>
       )}
