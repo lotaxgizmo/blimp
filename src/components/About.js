@@ -10,7 +10,9 @@ function About() {
       <div className="left">
         <img src={aboutus} alt="" className='mb-5' />
         <img src={text} alt="" className='mb-5' />
+        <a href="https://raydium.io/swap/?inputMint=sol&outputMint=2hnFpwft7BRhh7fcbkqaLzXubn76jNJNSyTZwdtDpump" target="_blank" rel="noopener noreferrer">
         <img src={buybtnabout} alt="" className='mb-5' />
+        </a>
       </div>
 
       <div className="right">

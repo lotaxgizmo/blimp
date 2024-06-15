@@ -23,7 +23,9 @@ function Header() {
   return (
     <div className='bg-[#FC8DCF]'>
       <div className="flex flex-row justify-between py-5 px-10 bg-white rounded-b-[40px]">
+      <a href="#" target="_blank" rel="noopener noreferrer">
       <img src={heropic} alt="" className="w-10 rounded-full" />
+      </a>
 
       <div className="hidden md:flex flex-row justify-between items-center">
         <div className="list text-[#FC8DCF] flex flex-row mr-10 justify-between">
@@ -33,7 +35,7 @@ function Header() {
             </a>
           ))}
         </div>
-        <a href="#">
+        <a href="https://raydium.io/swap/?inputMint=sol&outputMint=2hnFpwft7BRhh7fcbkqaLzXubn76jNJNSyTZwdtDpump" target="_blank" rel="noopener noreferrer">
           <img src={buynow} alt="" />
         </a>
       </div>
