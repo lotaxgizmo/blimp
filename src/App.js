@@ -8,12 +8,12 @@ import Header from './components/Header'
 function App() {
   return (
     <div className="App overflow-clip">
-<Header/>
-     <Home/>
-     <Community/>
-     <About/> 
-     <Tokenomics/>
-<Footer/>
+      <Header />
+      <Home />
+      <Community />
+      <About />
+      <Tokenomics />
+      <Footer />
     </div>
   );
 }
